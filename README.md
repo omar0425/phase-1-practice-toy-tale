@@ -53,7 +53,7 @@ data using a JSON server. Run `json-server --watch db.json` to start the server.
   https://gist.github.com/ihollander/cc5f36c6447d15dea6a16f68d82aacf7
 
 This will create a server storing all of our lost toy data with restful routes
-at `http://localhost:3000/toys`. You can also check out the information for each
+at ``. You can also check out the information for each
 individual toy at `http://localhost:3000/toys/:id`.
 
 > **Note:** we are using `:id` here as a variable value that indicates the path
